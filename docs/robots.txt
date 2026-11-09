@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pquilty79.github.io/ratastrophe-site/sitemap.xml

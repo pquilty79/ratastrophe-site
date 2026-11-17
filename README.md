@@ -28,7 +28,7 @@ The website supplies public contact and privacy pages. Publishing it does not it
 
 ## Maintenance
 
-The privacy text covers the AdMob integration: local campaigns/achievements, Apple purchases, non-personalized Google ads, Google’s consent platform, and advertising data handling. It distinguishes earlier playtest builds with fictional sponsor messages. Update it before introducing cloud saves, additional ad networks or mediation, a separate analytics service, accounts, or other new data flows. Keep the support inbox monitored and revise instructions when controls change. The website itself remains a static site without ads or analytics.
+The privacy text covers the AdMob integration: local campaigns/achievements on iOS and Android, Apple and Google Play purchases, non-personalized Google ads, Google’s consent platform, and advertising data handling. It distinguishes earlier playtest builds with fictional sponsor messages. Update it before introducing cloud saves, additional ad networks or mediation, a separate analytics service, accounts, or other new data flows. Keep the support inbox monitored and revise instructions when controls change. The website itself remains a static site without ads or analytics.
 
 The icon is copied from the existing Ratastrophe app asset catalog, without alteration. No new artwork was generated for this site.
 
